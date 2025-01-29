@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tcs1sg59w-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tcs1sg59w-dotnet-basic
